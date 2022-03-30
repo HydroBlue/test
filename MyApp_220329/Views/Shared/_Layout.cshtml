@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <!-- Shared의 Razor에 BootStrap CDN을 설정하면 다른 페이지에도 모두 적용됨-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+</head>
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">MyApp</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <!-- asp-action값에 해당하는 네비바 탭을 클릭하면 Home 컨트롤러 내 Student로 이동-->
+                <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li><a asp-controller="Home" asp-action="Student">Student</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <div class="navbar navbar-default navber-fixed-bottom">
+        <div class="container-fluid">
+            <span class="navber-text">
+                My Footer
+            </span>
+        </div>
+    </div>
+</body>
+</html>

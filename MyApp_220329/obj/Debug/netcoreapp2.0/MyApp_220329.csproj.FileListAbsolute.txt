@@ -1,0 +1,11 @@
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\bin\Debug\netcoreapp2.0\MyApp_220329.deps.json
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\bin\Debug\netcoreapp2.0\MyApp_220329.runtimeconfig.json
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\bin\Debug\netcoreapp2.0\MyApp_220329.runtimeconfig.dev.json
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\bin\Debug\netcoreapp2.0\MyApp_220329.dll
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\bin\Debug\netcoreapp2.0\MyApp_220329.pdb
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\obj\Debug\netcoreapp2.0\MyApp_220329.csprojAssemblyReference.cache
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\obj\Debug\netcoreapp2.0\MyApp_220329.csproj.CoreCompileInputs.cache
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\obj\Debug\netcoreapp2.0\MyApp_220329.AssemblyInfoInputs.cache
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\obj\Debug\netcoreapp2.0\MyApp_220329.AssemblyInfo.cs
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\obj\Debug\netcoreapp2.0\MyApp_220329.dll
+C:\Users\wing7\Desktop\ASP.NET Core\MyApp_220329\MyApp_220329\obj\Debug\netcoreapp2.0\MyApp_220329.pdb
